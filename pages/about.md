@@ -1,10 +1,10 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: David Hyatt
 ---
 
-#### <a name="currentposition"></a>current position
+#### <a name="currentposition"></a>Deputy US Marshal
 {Insert text here}
 
 
@@ -16,7 +16,7 @@ description: Benjamin Harvey is...
 {Insert text here}
 
 
-#### <a name="education"></a>ecucation
+#### <a name="education"></a>M.A. Political Science with a concentration in International Relations
 {Insert text here}
 
 
