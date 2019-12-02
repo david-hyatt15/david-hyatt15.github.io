@@ -41,7 +41,7 @@ Results | Repository
 
 ####  <a name="Assignment2"></a>Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+* [Lab: Scikit-Learn, Regression, PCA](https://github.com/david-hyatt15/david-hyatt15.github.io/blob/master/DavidHyattHMWK2_6401.ipynb)
 
 {Add description of example an assignment here}
 
