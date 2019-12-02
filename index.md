@@ -11,7 +11,7 @@ keywords: statistics, data analytics
           <li><a href="{{ BASE_PATH }}/
           <li><a href="https://github.com/david-hyatt15">github</a></li>
           <li><a href="
-          <li><a href="https://www.linkedin.com/in/david-hyatt-1a456771//">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/david-hyatt-1a456771">LinkedIn</a></li>
       </ul>
   </div>
 </div>
