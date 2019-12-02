@@ -8,7 +8,7 @@ description: David Hyatt
 {Insert text here}
 
 
-#### <a name="previousposition"></a>previous positions
+#### <a name="previousposition"></a> Aviation Electronics Technician in the United States Navy
 {Insert text here}
 
 
@@ -21,7 +21,7 @@ description: David Hyatt
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+
 
 ---
 
