@@ -8,9 +8,9 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/
+         
           <li><a href="https://github.com/david-hyatt15">github</a></li>
-          <li><a href="
+
           <li><a href="https://www.linkedin.com/in/david-hyatt-1a456771">LinkedIn</a></li>
       </ul>
   </div>
